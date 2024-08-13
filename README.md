@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Alan Rodrigues! 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-rodrigues-primo-22732817b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lan_rodriguezz/)
-* 👨‍🎓 Cursando Ciência da Computação - 4ºsemestre.
+* 👨‍🎓 Cursando Ciência da Computação - 5ºsemestre.
 
 * 🖥️ Curso Técnico em Informática Concluído [**Duração:** 18 meses]
 
