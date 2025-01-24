@@ -5,9 +5,9 @@
 
 * 🖥️ Curso Técnico em Informática Concluído [**Duração:** 18 meses]
 
-* 🌱<a href= "https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript/">Cursando na Udemy Web Design Completo: HTML5, CSS3 e JS + 5 Projetos.
+* 🌱<a href= "https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/?couponCode=MT24125">Cursando na Udemy C# COMPLETO Programação Orientada a Objetos + Projetos.
 
-* 🌱<a href= "https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/">Cursando na Udemy JavaScript e TypeScript do básico ao avançado.
+* 🌱<a href= "https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/?couponCode=MT24125">Cursando na Udemy React do Zero a Maestria (c/ hooks, router, API, Projetos).
 
  -----------------------------------------------------------------------------------------------
  
